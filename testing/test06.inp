@@ -1,0 +1,22 @@
+java -ea qirkat.Main
+set black ----- ----- -wb-- -ww-w ---w-
+dump
+@<===
+@< - - - w -
+@< - w w - w
+@< - w b - -
+@< - - - - -
+@< - - - - -
+@<===
+c3-a5
+dump
+@<===
+@< b - - w -
+@< - - w - w
+@< - w - - -
+@< - - - - -
+@< - - - - -
+@<===
+# d5-c5
+# @<Illegal move.
+quit
